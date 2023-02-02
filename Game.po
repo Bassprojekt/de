@@ -7759,7 +7759,7 @@ msgstr "Gewehrschalldämpfer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G3"
 msgid "步枪补偿器"
-msgstr "Gewehrschalldämpfer"
+msgstr "Gewehrkompensator"
 
 #. Key:	G4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
