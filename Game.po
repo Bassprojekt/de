@@ -1610,7 +1610,7 @@ msgstr "Modell 02"
 #: Text
 msgctxt ",4F4F9BDD48DA5B255182B78835F86EB9"
 msgid "铝瓶"
-msgstr "Flasche aus Aluminium"
+msgstr "Feldflasche"
 
 #. Key:	4F6CA9F740AD80289ECEDDBB2EBB5BC8
 #. SourceLocation:	/Game/Blueprint/UMG/WBP_BaseCharacter.WBP_BaseCharacter_C:WidgetTree.TBFY.Text
@@ -1685,7 +1685,7 @@ msgstr "FSR2.0"
 #: /Game/Blueprint/ACF/Item/Food/AutoCreate/BP_Food_CSCG.Default__BP_Food_CSCG_C.ItemInfo.Name
 msgctxt ",53D622B84E8BEF01604E3CB6B4003A5E"
 msgid "蔬菜干"
-msgstr "getrocknetes Gemüse"
+msgstr "Getrocknetes Gemüse"
 
 #. Key:	54D9A0A84222690CD2FF328C0F08BAFF
 #. SourceLocation:	/Game/Blueprint/UMG/Study/WBP_YX.WBP_YX_C:WidgetTree.WBP_SkillButton_40.In Text
@@ -9369,7 +9369,7 @@ msgstr "Adsorbierbar:"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,BuildingAll"
 msgid "全部"
-msgstr "alle"
+msgstr "Alle"
 
 #. Key:	BuildingBearing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9623,7 +9623,7 @@ msgstr "Fenstermodus"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Clear"
 msgid "清空"
-msgstr "leer"
+msgstr "Leer"
 
 #. Key:	ClearBody
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9672,7 +9672,7 @@ msgstr "Kochen"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,craft"
 msgid "制作"
-msgstr "machen"
+msgstr "Machen"
 
 #. Key:	Createing
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -9792,7 +9792,7 @@ msgstr "Einführung:"
 #: /Game/LocalizationText/GUN.GUN
 msgctxt "UI,DG"
 msgid "灯光"
-msgstr "hell"
+msgstr "Hell"
 
 #. Key:	DistanceField
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9969,7 +9969,7 @@ msgstr "Ausrüstung"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,ETip"
 msgid "拾取 "
-msgstr "aufsammeln"
+msgstr "Aufsammeln"
 
 #. Key:	EX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -9993,7 +9993,7 @@ msgstr "Augenform"
 #, fuzzy
 msgctxt "UI,fangru"
 msgid "放入"
-msgstr "einsetzen"
+msgstr "Einsetzen"
 
 #. Key:	fayue
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10134,7 +10134,7 @@ msgstr "Reflexionsqualität"
 #, fuzzy
 msgctxt "UI,Ftip"
 msgid "使用"
-msgstr "verwenden "
+msgstr "Verwenden "
 
 #. Key:	FX
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10295,7 +10295,7 @@ msgstr "Leben"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,Height"
 msgid "高度"
-msgstr "hoch"
+msgstr "Hoch"
 
 #. Key:	HJY
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10379,7 +10379,7 @@ msgstr "Winkel"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,JDL"
 msgid "击倒"
-msgstr "niederschlagen"
+msgstr "Niederschlagen"
 
 #. Key:	JH1
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10519,7 +10519,7 @@ msgstr "Antialiasing-Modus"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,KPP"
 msgid "可攀爬"
-msgstr "besteigbar"
+msgstr "Besteigbar"
 
 #. Key:	KR
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -10533,7 +10533,7 @@ msgstr "Mir ist heiß"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,KRX"
 msgid "抗热"
-msgstr "hitzebeständig"
+msgstr "Hitzebeständig"
 
 #. Key:	KSJL
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10551,7 +10551,7 @@ msgid ""
 "抗体为0就会死亡"
 msgstr ""
 "Virus-Antikörper\r\n"
-"Wenn der Antikörper 0 ist, wird er sterben"
+"Wenn der Antikörper 0 ist, werden sie sterben"
 
 #. Key:	Language
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -10722,7 +10722,7 @@ msgstr "Erreiche die maximale Anzahl an Zeichen"
 #: /Game/LocalizationText/UICharacter.UICharacter
 msgctxt "UI,MaxStam"
 msgid "最大耐力"
-msgstr "maximale Ausdauer"
+msgstr "Maximale Ausdauer"
 
 #. Key:	MJ
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -10876,7 +10876,7 @@ msgstr "Katastrophe"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,ND03"
 msgid "无人生还"
-msgstr "niemand überlebte"
+msgstr "Niemand überlebte"
 
 #. Key:	Need
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11033,7 +11033,7 @@ msgstr "Ich verstehe das immer noch nicht oder ich weiß es schon!"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NotUse"
 msgid "正在使用中"
-msgstr "in Benutzung"
+msgstr "In Benutzung"
 
 #. Key:	NotUseState
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11082,7 +11082,7 @@ msgstr "Ernte"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,NYError"
 msgid "已经种植了其他植物"
-msgstr "andere Pflanzen wurden gepflanzt"
+msgstr "Andere Pflanzen wurden gepflanzt"
 
 #. Key:	NYFL
 #. SourceLocation:	/Game/LocalizationText/UI.UI
