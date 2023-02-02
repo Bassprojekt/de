@@ -12405,21 +12405,21 @@ msgstr "Selten"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL02"
 msgid "正常"
-msgstr "normal"
+msgstr "Normal"
 
 #. Key:	WZSL03
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL03"
 msgid "多"
-msgstr "viele"
+msgstr "Viel mehr"
 
 #. Key:	WZSL04
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,WZSL04"
 msgid "极多"
-msgstr "viel"
+msgstr "Sehr viel"
 
 #. Key:	XBCD
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
