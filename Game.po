@@ -3871,7 +3871,7 @@ msgstr "Archivierung fehlgeschlagen! ! !"
 #: Text
 msgctxt ",C503D8D4432665A9708A219FA438AF85"
 msgid "火力发电机"
-msgstr "thermischer Generator"
+msgstr "Festbrennstoff Generator"
 
 #. Key:	C5D36BD148A87710804BBA890C070462
 #. SourceLocation:	/Game/Blueprint/ACF/Zombie/Zombie_Base.Default__Zombie_Base_C.CharacterName
@@ -6128,7 +6128,7 @@ msgstr "Kraftstoffgenerator"
 #: /Game/LocalizationText/BuildInfo.BuildInfo
 msgctxt "BuildInfo,B44"
 msgid "火力发电机"
-msgstr "thermischer Generator"
+msgstr "Festbrennstoff Generator"
 
 #. Key:	B45
 #. SourceLocation:	/Game/LocalizationText/BuildInfo.BuildInfo
@@ -7759,7 +7759,7 @@ msgstr "Gewehrschalldämpfer"
 #: /Game/LocalizationText/ItemInfo.ItemInfo
 msgctxt "ItemInfo,G3"
 msgid "步枪补偿器"
-msgstr "Gewehrkompensator"
+msgstr "Gewehrschalldämpfer"
 
 #. Key:	G4
 #. SourceLocation:	/Game/LocalizationText/ItemInfo.ItemInfo
@@ -10400,7 +10400,7 @@ msgstr "Interaktion 2"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,JINRU"
 msgid "进入"
-msgstr "Eintreten"
+msgstr "Einsteigen"
 
 #. Key:	JN
 #. SourceLocation:	/Game/LocalizationText/UIStudy.UIStudy
@@ -10799,7 +10799,7 @@ msgstr "Kein entsprechender Gegenstand"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,MZ"
 msgid "名字 ： "
-msgstr "Name : "
+msgstr "Name: "
 
 #. Key:	MZDDX
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11222,14 +11222,14 @@ msgstr "Aufsätze"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRGG"
 msgid "应用"
-msgstr "Anwendung"
+msgstr "Anwenden"
 
 #. Key:	QRTC
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,QRTC"
 msgid "确认退出吗？所有未保存的进度都将消失！"
-msgstr "Sie sind sicher, dass Sie beenden wollen? Alle ungespeicherten Fortschritte werden weg sein!"
+msgstr "Sie sind sicher, dass Sie beenden wollen? Alle ungespeicherten Fortschritte gehen verloren!"
 
 #. Key:	QT
 #. SourceLocation:	/Game/LocalizationText/GUN.GUN
@@ -11364,14 +11364,14 @@ msgid ""
 msgstr ""
 "Sie können ein Bett bauen, um die Zeit zu beschleunigen\r\n"
 "\r\n"
-"Das Spiel wird während des gesamten Spiels automatisch archiviert"
+"Das Spiel wird während des gesamten Spiels automatisch gespeichert."
 
 #. Key:	Save
 #. SourceLocation:	/Game/LocalizationText/UI.UI
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Save"
 msgid "保存"
-msgstr "behalten"
+msgstr "speichern"
 
 #. Key:	SaveDay
 #. SourceLocation:	/Game/LocalizationText/UI.UI
@@ -11455,7 +11455,7 @@ msgstr "Ton"
 #: /Game/LocalizationText/Screen.Screen
 msgctxt "UI,SetTipMessage"
 msgid "设置应用完成,某些选项可能需要在游戏重启后生效"
-msgstr "Die Einstellungsanwendung ist abgeschlossen, einige Optionen müssen möglicherweise nach dem Neustart des Spiels wirksam werden"
+msgstr "Die Einstellungsanwendung ist abgeschlossen, einige Optionen werden möglicherweise nach dem Neustart des Spiels wirksam"
 
 #. Key:	Settting
 #. SourceLocation:	/Game/LocalizationText/Screen.Screen
@@ -12184,7 +12184,7 @@ msgstr "UI-Soundeffekte"
 #: /Game/LocalizationText/UI.UI
 msgctxt "UI,Use"
 msgid "使用"
-msgstr "verwenden"
+msgstr "verwenden "
 
 #. Key:	useDDFRJ
 #. SourceLocation:	/Game/LocalizationText/UI.UI
